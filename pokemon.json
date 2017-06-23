@@ -1,0 +1,103 @@
+{
+"pokemon":[
+    {"name":"bulbasaur", "abilities":[
+								{"name":"overgrow", "type":"grass"},
+								{"name":"chlorophyll", "type":"poison"}
+								]
+	},
+	{"name":"ivysaur", "abilities":[
+								{"name":"overgrow", "type":"grass"},
+								{"name":"chlorophyll", "type":"poison"}
+								]
+	},
+	{"name":"venusaur", "abilities":[
+								{"name":"overgrow", "type":"grass"},
+								{"name":"chlorophyll", "type":"poison"}
+								]
+	},
+	{"name":"charmander", "abilities":[
+								{"name":"blaze", "type":"fire"},
+								{"name":"solar power", "type":"fire"}
+								]
+	},
+	{"name":"charmeleon", "abilities":[
+								{"name":"blaze", "type":"fire"},
+								{"name":"solar power", "type":"fire"}
+								]
+	},
+	{"name":"charizard", "abilities":[
+								{"name":"blaze", "type":"fire"},
+								{"name":"solar power", "type":"flying"}
+								]
+	},
+	{"name":"squirtle", "abilities":[
+								{"name":"torrent", "type":"water"},
+								{"name":"rain dish", "type":"water"}
+								]
+	},
+	{"name":"wartortle", "abilities":[
+								{"name":"torrent", "type":"water"},
+								{"name":"rain dish", "type":"water"}
+								]
+	},
+	{"name":"blastoise", "abilities":[
+								{"name":"torrent", "type":"water"},
+								{"name":"rain dish", "type":"water"}
+								]
+	},
+	{"name":"caterpie", "abilities":[
+								{"name":"shield dust", "type":"bug"},
+								{"name":"run away", "type":"bug"}
+								]
+	},
+	{"name":"metapod", "abilities":[
+								{"name":"shed skin", "type":"bug"}
+								]
+	},
+	{"name":"butterfree", "abilities":[
+								{"name":"compound eyes", "type":"bug"},
+								{"name":"tinted lens", "type":"flying"}
+								]
+	},
+	{"name":"weedle", "abilities":[
+								{"name":"shield dust", "type":"bug"},
+								{"name":"run away", "type":"poison"}
+								]
+	},
+	{"name":"beedrill", "abilities":[
+								{"name":"swarm", "type":"bug"},
+								{"name":"sniper", "type":"poison"}
+								]
+	},
+	{"name":"pidgey", "abilities":[
+								{"name":"keen eye", "type":"normal"},
+								{"name":"tangled feet", "type":"normal"},
+								{"name":"big pecks", "type":"flying"}
+								]
+	},
+	{"name":"pidgeotto", "abilities":[
+								{"name":"keen eye", "type":"normal"},
+								{"name":"tangled feet", "type":"normal"},
+								{"name":"big pecks", "type":"flying"}
+								]
+	},
+	{"name":"pidgeot", "abilities":[
+								{"name":"keen eye", "type":"normal"},
+								{"name":"tangled feet", "type":"normal"},
+								{"name":"big pecks", "type":"flying"}
+								]
+	},
+	{"name":"rattata", "abilities":[
+								{"name":"run away", "type":"normal"},
+								{"name":"guts", "type":"normal"},
+								{"name":"hustle", "type":"normal"}
+								]
+	},
+	{"name":"raticate", "abilities":[
+								{"name":"run away", "type":"normal"},
+								{"name":"guts", "type":"normal"},
+								{"name":"hustle", "type":"normal"}
+								]
+	}
+]
+}
