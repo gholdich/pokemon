@@ -98,7 +98,7 @@
 								{"name":"guts", "type":"normal"},
 								{"name":"hustle", "type":"normal"}
 								]
-	},
+	}, 
 	{"name":"pikachu", "abilities":[
 								{"name":"static", "type":"electric"},
 								{"name":"lightning rod", "type":"electric"}
